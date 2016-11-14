@@ -1,1 +1,3 @@
 # www
+
+### Standart olarak kullandığım yapıdır...
